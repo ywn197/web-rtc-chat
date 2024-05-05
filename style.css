@@ -1,0 +1,107 @@
+html {
+    text-align: center;
+    background-color: rgb(58, 58, 58);
+}
+
+    h1 {
+        color: aliceblue;
+        font-family: "MuseoModerno";
+    }
+
+    #JoinChat {
+        padding-top: 10px;
+        min-height: 16px;
+    }
+
+    #underline {
+        border-bottom: 2px solid #0bd;
+    }
+
+    .box {
+        color: aliceblue;
+        margin-left: 100px;
+        margin-right: 100px;
+
+    }
+
+    input {
+        font-size: 16px;
+    }
+
+
+
+    #YTtop {
+        padding-top: 10px;
+    }
+
+    #newSession{
+        margin-bottom: 10px;
+    }
+
+    #OutputMyToken {
+        margin-bottom: 10px;
+    }
+
+    .sent{
+        min-height: 20px;
+        color: lightgreen;
+    }
+
+    .receive{
+        min-height: 20px;
+        color: #0bd;
+    }
+
+
+
+    button:hover {
+        cursor: pointer;
+    }
+
+
+
+    #chatBOX {
+        font-size: 16px;
+        resize: none;
+        width: 600px;
+        height: 66px;
+    }
+
+
+
+    #QRArea {
+        background-color: black;
+        width: 200px;
+        height: 200px;
+        margin: auto;
+        padding: auto;
+
+    }
+
+    div#choose {
+        border: solid 4px black;
+    }
+
+    div#make_Session {
+        margin-top: 10px;
+        padding-bottom: 5px;
+        border: solid 4px black;
+    }
+
+    #Chat {
+        margin-top: 100px;
+        padding-top: 10px;
+        border: solid 4px black;
+        height: auto;
+        padding-bottom: 10px;
+
+    }
+    #MSGArea {
+        background-color: black;
+        width: 600px;
+        height: 300px;
+        margin: auto;
+        padding: auto;
+        margin-bottom: 10px;
+        color: aliceblue;
+    }
